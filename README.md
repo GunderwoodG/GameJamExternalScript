@@ -20,4 +20,4 @@ Requirments: Python 3.11 (MediaPipe does not currently have support for Python 3
 5) In the Command Line / Terminal: pip install opencv-python
 6) All dependencies should be installed now.
 
-You should now be able to successfully run the Python script. In order to play the game with the CV controls you will also need to download the Godot game and run it locally as there is an issue with the server connection running it on web. The itch.io page has been updated.
+You should now be able to successfully run the Python script. In order to play the game with the CV controls you will also need to download the Godot game and run it locally as there is an issue with the server connection running it on web. The zip file is included in the repo.
